@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-01T19:41:59 EET" name="Default suite" finished-at="2022-03-01T19:42:02 EET" duration-ms="2111">
+    <groups>
+    </groups>
+    <test started-at="2022-03-01T19:41:59 EET" name="Default test" finished-at="2022-03-01T19:42:02 EET" duration-ms="2111">
+      <class name="API_TestingTest">
+        <test-method signature="validateOrderCodeLength()[pri:0, instance:API_TestingTest@483f6d77]" started-at="2022-03-01T19:41:59 EET" name="validateOrderCodeLength" finished-at="2022-03-01T19:42:02 EET" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOrderCodeLength -->
+      </class> <!-- API_TestingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
